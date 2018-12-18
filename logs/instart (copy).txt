@@ -1,0 +1,243 @@
+PHPUnit 6.5.7 by Sebastian Bergmann and contributors.
+
+R                                                                   1 / 1 (100%)URL: https://staging-autopartswarehouse.usautoparts.com/managevehicle/index/?status=removevehicle&id=109-27-4478-1945-345
+Page Type: /managevehicle/*
+Content-Encoding: gzip
+Content-Type: text/plain;charset=UTF-8
+
+
+URL: https://staging-autopartswarehouse.usautoparts.com/ajax/get-cart-items/?
+Page Type: /ajax/*
+Content-Encoding: gzip
+Content-Type: application/json
+
+
+URL: https://staging-autopartswarehouse.usautoparts.com/request/get-multiprodinv
+Page Type: /request/*
+Content-Encoding: gzip
+Content-Type: text/html; charset=UTF-8
+
+
+URL: https://staging-autopartswarehouse.usautoparts.com/myaccount/login
+Page Type: /myaccount
+Content-Encoding: gzip
+Content-Type: text/html; charset=UTF-8
+
+
+URL: https://staging-autopartswarehouse.usautoparts.com/basket.php
+Page Type: /basket
+Content-Encoding: gzip
+Content-Type: text/html; charset=UTF-8
+
+
+URL: https://staging-autopartswarehouse.usautoparts.com/checkout.php
+Page Type: /checkout
+Content-Encoding: gzip
+Content-Type: text/html; charset=UTF-8
+
+
+URL: https://staging-autopartswarehouse.usautoparts.com/feedback/?w=1280&h=1024&u=aHR0cDovL3d3dy5hdXRvcGFydHN3YXJlaG91c2UuY29tLw==
+Page Type: /feedback/*
+Content-Encoding: gzip
+Content-Type: text/html; charset=UTF-8
+
+
+URL: https://staging-autopartswarehouse.usautoparts.com/matchbeat.php
+Page Type: /matchbeat.php
+Content-Encoding: gzip
+Content-Type: text/html; charset=UTF-8
+
+
+URL: https://staging-autopartswarehouse.usautoparts.com/contact_the_warehouse.html
+Page Type: /contact_the_warehouse.html
+Content-Encoding: gzip
+Content-Type: text/html; charset=UTF-8
+
+
+URL: https://staging-autopartswarehouse.usautoparts.com/basket/?add_item_id=136801985
+Page Type: /additemtirerack
+Content-Encoding: gzip
+Content-Type: text/html;charset=UTF-8
+
+
+URL: https://staging-autopartswarehouse.usautoparts.com/r/regf2
+Page Type: /r/regf2
+Content-Encoding: gzip
+Content-Type: text/html; charset=UTF-8
+
+
+URL: https://staging-autopartswarehouse.usautoparts.com/requestb/?asdfasdf
+Page Type: /requestb/*
+Content-Encoding: gzip
+Content-Type: text/html; charset=UTF-8
+
+
+URL: https://staging-autopartswarehouse.usautoparts.com/compare/?R=k-and-nk33332129-+k-and-nk33332181-&B=TnR0PWFpciBmaWx0ZXImc2VhcmNoVHlwZT1nbG9iYWwmc2hvcElkPTEmTj0wJmFkZGZpdG1lbnQ9MQ%3D%3D&I=
+Page Type: /compare
+Content-Encoding: gzip
+Content-Type: text/html; charset=UTF-8
+
+
+URL: https://staging-autopartswarehouse.usautoparts.com/search/?Ntt=air+filter&searchType=global&shopId=1&N=0&addfitment=1
+Page Type: /search/*
+Content-Encoding: gzip
+Content-Type: text/html; charset=UTF-8
+
+
+URL: https://staging-autopartswarehouse.usautoparts.com/privatelabel/?brandedSku=2401993&privateLabelSku=3995846&event=41&show=true
+Page Type: /privatelabel/*
+Content-Encoding: gzip
+Content-Type: text/html; charset=UTF-8
+
+
+URL: https://staging-autopartswarehouse.usautoparts.com/category/auto_body_parts_-and-_mirrors.html
+Page Type: /category/*
+Content-Encoding: gzip
+Content-Type: text/html; charset=UTF-8
+
+
+URL: https://staging-autopartswarehouse.usautoparts.com/tires.html?_event=1&make=Acura
+Page Type: /tires.html
+Content-Encoding: gzip
+Content-Type: text/html; charset=UTF-8
+
+
+URL: https://staging-autopartswarehouse.usautoparts.com/wheels.html?_event=1&make=Acura
+Page Type: /wheels.html
+Content-Encoding: gzip
+Content-Type: text/html; charset=UTF-8
+
+
+URL: https://staging-autopartswarehouse.usautoparts.com/part/Replacement/Air_Spring/REPL288011
+Page Type: /part
+Content-Encoding: gzip
+Content-Type: text/html; charset=UTF-8
+
+
+URL: https://staging-autopartswarehouse.usautoparts.com/part_types?part_type=Mirror&brand=Kool%20Vue
+Page Type: /part_types
+Content-Encoding: gzip
+Content-Type: text/html; charset=UTF-8
+
+
+URL: https://staging-autopartswarehouse.usautoparts.com/partfinder/yr/0
+Page Type: /partfinder/*
+Content-Encoding: gzip
+Content-Type: text/plain;charset=UTF-8
+
+
+URL: https://staging-autopartswarehouse.usautoparts.com/ajaxc/get-kits-and-bundles?pageSection=search&part=Mirror&limit=4
+Page Type: /ajaxc/*
+Content-Encoding: gzip
+Content-Type: application/json
+
+
+URL: https://staging-autopartswarehouse.usautoparts.com/requestc/header-nav-sub-category/?tlc=Brakes%2C%20Suspension%20%26%20Steering
+Page Type: /requestc/*
+Content-Encoding: gzip
+Content-Type: text/html;charset=UTF-8
+
+
+URL: https://staging-autopartswarehouse.usautoparts.com/ajaxc/get-bundle-products-lb?offset=0&link%5Blink%5D=N%3D0%26Nr%3DAND(part%3AMirror)%26Ntk%3DMain&link%5Byear%5D=2016&link%5Bmake%5D=Acura&link%5Bmodel%5D=ILX&link%5Bsubmodel%5D=Base&link%5Bengine%5D=4+Cyl+2.4L&link%5Bpartname%5D=Mirror&link%5BisNonWorldPac%5D=false&section=sku
+Page Type: /ajaxc/get-bundle-products-lb
+Content-Encoding: gzip
+Content-Type: text/html;charset=UTF-8
+
+
+URL: https://staging-autopartswarehouse.usautoparts.com/ajaxc/get-bundle-recommended-products/?price=128.27&sku=SET-FD110ER&cache=2
+Page Type: /ajaxc/get-bundle-recommended-products/
+Content-Encoding: gzip
+Content-Type: text/html;charset=UTF-8
+
+
+URL: https://staging-autopartswarehouse.usautoparts.com/ajaxc/get-private-label-widget/?&productId%5B%5D=3560407
+Page Type: /ajaxc/get-private-label-widget/
+Content-Encoding: gzip
+Content-Type: application/json
+
+
+URL: https://staging-autopartswarehouse.usautoparts.com/ajaxc/get-kits-and-bundles?pageSection=sku&part=Mirror&limit=4&productId%5B%5D=3560407&kitLimit=4
+Page Type: /ajaxc/get-kits-and-bundles/
+Content-Encoding: gzip
+Content-Type: application/json
+
+
+URL: https://staging-autopartswarehouse.usautoparts.com/popup/?type=more&image=aHR0cDovL2ltYWdlcy5hcHdjb250ZW50LmNvbS9pcy9pbWFnZS9BdXRvcy9mZDExMGVyX2lzPw==&title=S29vbCBWdWUgTWlycm9y&text=S09PTCBWVUUgUE9XRVJFRCBNSVJST1IsIEhFQVRFRCwgTk9OLUZPTERJTkdLb29sIFZ1ZSBQb3dlciBNaXJyb3JzIGFyZSBPRSByZXBsYWNlbWVudCBhbmQgbWFudWZhY3R1cmVkIGZyb20gdGhlIGhpZ2hlc3QgcXVhbGl0eSwgY29ycm9zaW9uLXJlc2lzdGFudCBtYXRlcmlhbHMgdG8gd2l0aHN0YW5kIGFsbCB0eXBlcyBvZiB3ZWF0aGVyLiBLb29sIFZ1ZSBzcGVjaWFsaXplcyBpbiBwcm9kdWNpbmcgbWlycm9ycyBmb3IgYWxsIHZlaGljbGUgbWFrZXMgYW5kIG1vZGVsczsgT3VyIG1pcnJvcnMgZ28gdGhyb3VnaCByaWdvcm91cyB3ZWF0aGVyLCBzd2luZywgYW5kIHZpYnJhdGlvbiB0ZXN0aW5nIHRvIG1ha2Ugc3VyZSB5b3UgcmVjZWl2ZSB0aGUgaGlnaGVzdCBxdWFsaXR5IG1pcnJvcnMuIE91ciBtaXJyb3JzIGFyZSBiYWNrZWQgYnkgYSAxLXllYXIgS29vbCBWdWUgbGltaXRlZCB3YXJyYW50eSAtIHlvdSBjYW4ndCBnbyB3cm9uZyB3aXRoIEtvb2wgVnVlIE1pcnJvcnMhV2F2ZSBsaW5lcyBvbiBNaXJyb3IgR2xhc3NlcyBzaG91bGQgbm90IGJlIHVzZWQgdG8gaWRlbnRpZnkgSGVhdGVkIE1pcnJvcnMgYXMgbW9yZSBhbmQgbW9yZSBuZXdlciBhcHBsaWNhdGlvbnMgbm8gbG9uZ2VyIHB1dCB3YXZlIGxpbmVzIG9uIGhlYXRlZCBtaXJyb3JzLg==&nareferer=http%3A//cart.autopartswarehouse.com/basket%3Fai%3Dtrue
+Page Type: /popup
+Content-Encoding: gzip
+Content-Type: text/html; charset=UTF-8
+
+
+URL: https://staging-autopartswarehouse.usautoparts.com/shop_years/cadillac-srx-a-c-compressor-2011.html
+Page Type: /shop_years
+Content-Encoding: gzip
+Content-Type: text/html; charset=UTF-8
+
+
+URL: https://staging-autopartswarehouse.usautoparts.com/models/acura~integra~makemodel.html
+Page Type: /models
+Content-Encoding: gzip
+Content-Type: text/html; charset=UTF-8
+
+
+URL: https://staging-autopartswarehouse.usautoparts.com/shop_brands/
+Page Type: /shop_brands
+Content-Encoding: gzip
+Content-Type: text/html; charset=UTF-8
+
+
+URL: https://staging-autopartswarehouse.usautoparts.com/shop_parts/radiator/ford/aerostar.html
+Page Type: /shop_parts
+Content-Encoding: gzip
+Content-Type: text/html; charset=UTF-8
+
+
+URL: https://staging-autopartswarehouse.usautoparts.com/sku/Replacement/Bumper_Cover/RBF010306PQ.html
+Page Type: /sku
+Content-Encoding: gzip
+Content-Type: text/html; charset=UTF-8
+
+
+URL: https://staging-autopartswarehouse.usautoparts.com/prodmap/
+Page Type: /prodmap
+Content-Encoding: gzip
+Content-Type: text/html; charset=UTF-8
+
+
+URL: https://staging-autopartswarehouse.usautoparts.com/vehicle/2007/honda/cr-v/lx/4_cyl_2-dot-4l.html
+Page Type: /vehicle
+Content-Encoding: gzip
+Content-Type: text/html; charset=UTF-8
+
+
+URL: https://staging-autopartswarehouse.usautoparts.com/privacy/
+Page Type: /privacy
+Content-Encoding: gzip
+Content-Type: text/html; charset=UTF-8
+
+
+URL: https://staging-autopartswarehouse.usautoparts.com/help.html
+Page Type: /help.html
+Content-Encoding: gzip
+Content-Type: text/html; charset=UTF-8
+
+
+URL: https://staging-autopartswarehouse.usautoparts.com/
+Page Type: /home
+Content-Encoding: gzip
+Content-Type: text/html; charset=UTF-8
+
+
+
+
+
+
+Time: 1.61 minutes, Memory: 6.00MB
+
+There was 1 risky test:
+
+1) MyApiTest::testHomeToCart
+This test did not perform any assertions
+
+OK, but incomplete, skipped, or risky tests!
+Tests: 1, Assertions: 0, Risky: 1.
